@@ -4,11 +4,6 @@ My name is João Victor Correia, and I am a graduate student in software enginee
 I really believe that we can change the world 🌎 using technology &emsp;&emsp;  <img src="https://media.giphy.com/media/FRDFK0bgXdAic/giphy.gif" width="50">
 
 
-  <a href="https://github.com/CorreiaJV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CorreiaJV&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreiaJV&layout=compact&langs_count=7&theme=slateorange"/> </a>
-</div>
-  
  
   
   <div style="display: inline_block"><br>
