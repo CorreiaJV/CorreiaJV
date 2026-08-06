@@ -33,9 +33,6 @@ If you wanna know more about me, follow me in my social medias or contact-me: &e
    
  
 
-  ![Snake animation](https://github.com/CorreiaJV/CorreiaJV/blob/output/github-contribution-grid-snake.svg)
-  
-  
 
 
 
