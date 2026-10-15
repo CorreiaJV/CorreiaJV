@@ -1,5 +1,14 @@
 ### Hello there 👋
-My name is João Victor Correia, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a> (UNB). I'm passionate about Mobile development and the creation of Backend systems, an awesome combination that alows me to create my own apps 🔥  
+My name is João Victor Correia, Results-driven Software Engineer and Data Engineer with experience in full-stack
+development, data engineering, and technical leadership in strategic projects. Proven track
+record working with distributed architectures, large-scale data pipelines, and
+business-oriented solutions, with strong focus on quality, governance, and performance.
+Hands-on experience with React, Java Spring Boot, Node.js, Azure Databricks, Apache
+Spark, and relational databases, along with coordinating cross-functional teams, leading
+architectural decisions, and aligning technical initiatives with stakeholders. Seeking to
+contribute to high-impact projects in dynamic and innovative environments by combining
+technical, analytical, and strategic expertise.
+
 
 I really believe that we can change the world 🌎 using technology &emsp;&emsp;  <img src="https://media.giphy.com/media/FRDFK0bgXdAic/giphy.gif" width="50">
 
