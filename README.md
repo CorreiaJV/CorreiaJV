@@ -32,7 +32,7 @@ I really believe that we can change the world 🌎 using technology &emsp;&emsp;
   
   ##
   
-If you wanna know more about me, follow me in my social medias or contact-me: &emsp; <img src="https://media.giphy.com/media/Xdv29zqFlaSlO/giphy.gif" width="55">
+If you wanna know more about me, follow me in my social medias or contact-me: 
 
   <div>     
   <a href="https://www.instagram.com/correia.jv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
